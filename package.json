@@ -1,5 +1,5 @@
 {
-  "name": "rydhra-package",
+  "name": "@felipe-quezada/rydhra-package",
   "version": "1.0.0",
   "description": "Este es un package",
   "main": "index.js",
