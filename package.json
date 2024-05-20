@@ -1,0 +1,16 @@
+{
+  "name": "rydhra-package",
+  "version": "1.0.0",
+  "description": "Este es un package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": "https://github.com/felipe-quezada/rydhra-package.git",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
